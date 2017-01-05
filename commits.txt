@@ -1,0 +1,41 @@
+commit c6c7bb571b23b67debdeda284064ef0860a836af
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Thu Jun 16 15:57:32 2016 -0500
+
+    Update and rename CNAME.quitar to DOMINIO
+
+commit 0cddb19217d8e4efd83fefe2c0a8bd242202eb8e
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Thu Jun 16 15:29:04 2016 -0500
+
+    Update index.html
+
+commit 8e7127e29b763bea9be8e8b96e3878ff3fce606f
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Thu Jun 16 15:20:10 2016 -0500
+
+    Rename CNAME to CNAME.quitar
+
+commit 04f454926e69bc2a0e4dd3a420fac941d1596ce4
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Thu Jun 16 14:41:34 2016 -0500
+
+    Update README.md
+
+commit 82ca4db2892a2829d3b7698f3cd7854c0a9da351
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Thu Jun 16 14:44:07 2016 -0500
+
+    Portafolio base
+
+commit 44d59efc3e081469026e8a82ca08d8b6a5d7791c
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Thu Jun 16 12:36:05 2016 -0500
+
+    Update and rename README.txt to README.md
+
+commit 764b26c4cda7e965b7ebd227e24270220c0acefb
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Thu Jun 16 12:30:36 2016 -0500
+
+    Portafolio base
